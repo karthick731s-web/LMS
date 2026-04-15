@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# environment variables (VERY IMPORTANT)
+.env
+
+# frontend build folder
+Frontend/dist/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
